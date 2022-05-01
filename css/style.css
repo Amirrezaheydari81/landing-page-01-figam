@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(#7B337D, #430D4B);
+}
+
+#container-div-one {
+    width: 100%;
+}
+
+#image-overlay-stars {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    mix-blend-mode: overlay;
+}
+
+/* code : Amirreza heydari */
